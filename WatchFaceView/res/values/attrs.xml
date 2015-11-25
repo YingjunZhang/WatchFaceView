@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <declare-styleable name="WatchFaceView">
+       <attr name="back_pic" format="reference" />
+       <attr name="pointer_color" format="color|reference" />  
+       <attr name="pointer_circle_color" format="color|reference" />
+       <attr name="total_value" format="integer" />
+   </declare-styleable>  
+</resources>  

@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <color name="circle_color">#ffffff</color>
+    <color name="line_color">#e4d5b8</color>
+
+</resources>
